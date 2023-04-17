@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: #e0f5ff;
+    color: rgb(35, 51, 94); 
+}
+
+.listheading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.resumebullets {
+    margin-left: 35px;
+    font-style: normal;
+}
+
+.title {
+    font-style: italic;
+}
+.center{
+    text-align: center;
+}
+
+.resume{
+    font-size: medium;
+}
